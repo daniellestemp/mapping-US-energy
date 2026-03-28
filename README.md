@@ -6,7 +6,7 @@ While companies like Microsoft and Amazon have made claims that energy prices wo
 ## Documentation & Workflow
 
 ### EIA Data Tools
-Using EIA’s web data tools, I queried data including average electricity price (cents per kilowatt hour (kWh)) by state from 2020-2025. 
+Using US Energy Information Administration’s (EIA) web data tools, I queried data including average electricity price (cents per kilowatt hour (kWh)) by state from 2020-2025. 
 I downloaded the dataset and performed initial data cleaning (such as cleaning up column names and ensuring state name formatting was consistent) in Google Sheets. 
 
 ### Geocoding & Calculated Columns in R
